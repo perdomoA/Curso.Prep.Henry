@@ -20,7 +20,7 @@ I. Cree una página HTML básica.
     3. En el tercer div crea:
       * una lista desordenada con dos elementos dentro de la lista
       * una etiqueta img en cada elemento de la lista que se vincula a su comida favorita. (Use la búsqueda de imágenes de Google para encontrar una foto y copiar la dirección de la misma o sino puede usar esta: "https://i.picsum.photos/id/1080/400/200.jpg").
-```
+``` 
 
 ```
 II Añade un poco de estilo
@@ -33,7 +33,7 @@ II Añade un poco de estilo
   G. Agregue una regla de estilo a 'thirdDiv' cambiando la altura a 600px y el ancho a 500px.
   H. Agregue una regla de estilo a 'thirdDiv' cambiando el color de fondo por el que quiera.
   I. Cambie el tamaño de la fuente para 'spanId' a 18px.
-  J. Asignar al id 'spanId' un margen de 50px.
+  J. Asignar al id 'spanId' un margen de 50px.  
   K. Asignar al id 'thirdDiv' un relleno (padding) de 50px.
   L. Asignar al id 'thirdDiv' un borde con cualquier ancho de color y estilo que elija.
 ```
